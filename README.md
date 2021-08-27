@@ -1,2 +1,2 @@
-# TSP-Travelling-salesman-problem-Reinforcement
+# TSP-Travelling-salesman-problem
 Résoudre le problème du voyageur de commerce avec Reinforcement Learning (Q-Learning Method)
